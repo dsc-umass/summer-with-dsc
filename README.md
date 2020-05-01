@@ -5,4 +5,5 @@ Summer with DSC is in initiative to get students into open source through mentor
 - Abhinav Tripathy (Head Mentor)
 - Aditya Narayanan 
 - Sathvik Birudavolu 
+- Hannan Rhodes
 
