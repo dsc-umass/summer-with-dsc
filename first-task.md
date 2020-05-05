@@ -6,7 +6,7 @@ Welcome to the Summer with DSC UMass program! We as a club love open source and 
 
 ### Goal
 
-The Goal of the Task to Add your Name under the participant list in the [README.md](https://github.com/dsc-umass/summer-with-dsc) in this repository. 
+The Goal of the Task is to add your name under the "Active List of Participants for the Program" in the [README.md](https://github.com/dsc-umass/summer-with-dsc) in this repository. 
 
 ### Instructions 
 
