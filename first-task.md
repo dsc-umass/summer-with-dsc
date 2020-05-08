@@ -10,4 +10,6 @@ The Goal of the Task is to add your name under the "Active List of Participants 
 
 ### Instructions 
 
+- Make sure you have a github account and a text editor on your computer
+- Fork this repository to your github account
 
