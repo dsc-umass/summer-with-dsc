@@ -2,7 +2,7 @@
 
 ### Introduction 
 
-Welcome to the Summer with DSC UMass program! We as a club love open source and we are trying to pormote it and get students contributing to it. We want participants in this program to all understand how open source work in terms of Git and Github. Hence, we designed this first task to get everyone to understand how things work. 
+Welcome to the Summer with DSC UMass program! We as a club love open source and we are trying to promote it and get students contributing to it. We want participants in this program to all understand how open source work in terms of [Git](https://git-scm.com/) and [Github](https://github.com/). Hence, we designed this first task to get everyone to understand how things work. 
 
 ### Goal
 
