@@ -7,6 +7,7 @@ Summer with DSC UMass is an initiative to get students into open source through 
 - Sathvik Birudavolu 
 - Hannan Rhodes
 - Cody Richter
+- Harsh Deep
 
 ### Active List of Participants for the Program
 
