@@ -50,6 +50,18 @@ git commit -m "Adding My name"
 git push
 ```
 
-This adds all the files that have bene change and then commits them to your forked repository and then pushes the changes from your local computer to the repository on github. 
+This adds all the files that have bene change and then commits them to your forked repository and then pushes the changes from your local computer to the repository on github.
 
+- Go to your forked repo on github and click on "new pull request"
 
+![](assets/new_pull_request.png)
+
+- The following window shows all the changes you have made. The changes should show your name being added. Click on "create pull request"
+
+![](assets/create_pull_request.png)
+
+- Finally, here add any comments that you feel are necessary and click on "create pull request"
+
+![](assets/finalize_pr.png)
+
+- After you have done all this, we will reach out to you with next steps in terms of what projects might interest and start that discussion. 
