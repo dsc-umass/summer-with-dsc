@@ -13,8 +13,43 @@ The Goal of the Task is to add your name under the "Active List of Participants 
 - Make sure you have a github account and a text editor on your computer
 - Open a new tab and go to [https://github.com/dsc-umass/summer-with-dsc](https://github.com/dsc-umass/summer-with-dsc)
 - Fork the repository to your github account [More about Forking a Repo](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo))
+
 ![](assets/fork.png)
 
-- Add your name to the Reamde.md file under the "Active List of Participants for the Program"
-- Submit a pull request from your forked reposoitory to our repository. 
+- This is how the forked repository would look like
+
+![](assets/forked_repo.png)
+
+- Copy the clone link form the forked repository 
+
+![](assets/clone_link.png)
+
+- Go to your text editor terminal or any other terminal. For MacOS/Linux search for "terminal". For Windows search for powershell on your computer
+
+- Change directory to a folder of your choice and type:
+
+```
+git clone "clone link"
+```
+
+Here "clone link" is the link you copied from the previous step, paste the link and do not add any quotes. 
+
+- Open the folder with a text editor - we highly recommend VS Code for ease of use. Open the README.md file. 
+
+![](assets/adding_name.png)
+
+Add your name with a "-" infront of it. Here for example we added "John Doe"
+
+- Go to your terminal and make sure you are in the directory of the folder you cloned and type:
+
+```
+git add .
+
+git commit -m "Adding My name"
+
+git push
+```
+
+This adds all the files that have bene change and then commits them to your forked repository and then pushes the changes from your local computer to the repository on github. 
+
 
