@@ -60,7 +60,7 @@ This adds all the files that have bene change and then commits them to your fork
 
 ![](assets/create_pull_request.png)
 
-- Finally, here add any comments that you feel are necessary and click on "create pull request"
+- Finally, add any comments that you feel are necessary and click on "create pull request"
 
 ![](assets/finalize_pr.png)
 
