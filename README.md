@@ -10,4 +10,4 @@ Summer with DSC UMass is an initiative to get students into open source through 
 - Harsh Deep
 
 ### Active List of Participants for the Program
-
+- John Doe
