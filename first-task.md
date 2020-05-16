@@ -20,11 +20,11 @@ The Goal of the Task is to add your name under the "Active List of Participants 
 
 ![](assets/forked_repo.png)
 
-- Copy the clone link form the forked repository 
+- Copy the clone link from the forked repository 
 
 ![](assets/clone_link.png)
 
-- Go to your text editor terminal or any other terminal. For MacOS/Linux search for "terminal". For Windows search for powershell on your computer
+- Go to your text editor terminal or any other terminal. For MacOS/Linux search for "terminal". For Windows search for "powershell" on your computer
 
 - Change directory to a folder of your choice and type:
 
@@ -64,4 +64,4 @@ This adds all the files that have bene change and then commits them to your fork
 
 ![](assets/finalize_pr.png)
 
-- After you have done all this, we will reach out to you with next steps in terms of what projects might interest and start that discussion. 
+- After you have done all this, we will reach out to you with next steps in terms of what projects might interest you and start that discussion. If you have any questions reach out to [team@umassdsc.com](mailto:team@umassdsc.com) 
