@@ -11,3 +11,4 @@ Summer with DSC UMass is an initiative to get students into open source through 
 
 ### Active List of Participants for the Program
 - Anirudh Muthukumar
+- Pramurta Chatterjee
