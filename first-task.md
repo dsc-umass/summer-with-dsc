@@ -12,7 +12,7 @@ The Goal of the Task is to add your name under the "Active List of Participants 
 
 - Make sure you have a github account and a text editor on your computer
 - Open a new tab and go to [https://github.com/dsc-umass/summer-with-dsc](https://github.com/dsc-umass/summer-with-dsc)
-- Fork the repository to your github account [More about Forking a Repo](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo))
+- Fork the repository to your github account ([More about Forking a Repo](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo))
 
 ![](assets/fork.png)
 
