@@ -16,3 +16,4 @@ Summer with DSC UMass is an initiative to get students into open source through 
 - Pramurta Chatterjee
 - Abhinandan Padhi
 - Aryaman Agrawal
+- Atrik Das
