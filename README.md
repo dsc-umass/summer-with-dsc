@@ -3,13 +3,13 @@ Summer with DSC UMass is an initiative to get students into open source through 
 
 ### Active List of Mentors for the Program
 - Abhinav Tripathy (Head Mentor)
-- Aditya Narayanan 
-- Sathvik Birudavolu 
+- Aditya Narayanan
+- Sathvik Birudavolu
 - Hannan Rhodes
 - Cody Richter
 - Harsh Deep
 - Dan Cline
-- Alicia Bochnak 
+- Alicia Bochnak
 
 ### Active List of Participants for the Program
 - Anirudh Muthukumar
@@ -17,3 +17,4 @@ Summer with DSC UMass is an initiative to get students into open source through 
 - Abhinandan Padhi
 - Aryaman Agrawal
 - Atrik Das
+- Anushka Singh
