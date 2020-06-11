@@ -3,13 +3,13 @@ Summer with DSC UMass is an initiative to get students into open source through 
 
 ### Active List of Mentors for the Program
 - Abhinav Tripathy (Head Mentor)
-- Aditya Narayanan (Social Insights Project)
-- Sathvik Birudavolu (Backend Mentor)
-- Hannan Rhodes (Backend Mentor)
-- Cody Richter (Backend & Ruby on Rails Mentor)
-- Harsh Deep (Ruby on Rails Mentor)
-- Dan Cline (Backend Mentor)
-- Alicia Bochnak (Ruby on Rails Mentor)
+- Aditya Narayanan (Social Insights)
+- Sathvik Birudavolu (Backend)
+- Hannan Rhodes (Backend)
+- Cody Richter (Backend & Ruby on Rails)
+- Harsh Deep (Ruby on Rails)
+- Dan Cline (Backend)
+- Alicia Bochnak (Ruby on Rails)
 
 ### Active List of Participants for the Program
 - Anirudh Muthukumar
