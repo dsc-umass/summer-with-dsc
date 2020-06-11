@@ -24,3 +24,4 @@ Summer with DSC UMass is an initiative to get students into open source through 
 - Ahmed Jaafar
 - John Pomerat
 - Gautam Chatterjee
+- Jarod Sagendorph
