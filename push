@@ -1,0 +1,428 @@
+[33mcommit dcd6a796055ebda0fae557752756bebe50642fb6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: cec25ed 4f2991a
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Fri Jun 19 12:00:23 2020 -0400
+
+    Merge pull request #17 from yanivam/master
+    
+    Adding My Name
+
+[33mcommit 4f2991a2191d4bbe079cc0437ea9c26335457400[m
+Author: Yaniv Amiri <yanivam123@gmail.com>
+Date:   Thu Jun 18 00:06:38 2020 -0400
+
+    Adding
+    My Name
+
+[33mcommit cec25edbce8fc7a362636a3206f292025f54637d[m
+Merge: 2a77bcb 42b532c
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Mon Jun 15 11:30:14 2020 -0400
+
+    Merge pull request #16 from rahulgajawada/master
+    
+    Adding my name into the program
+
+[33mcommit 42b532c9558cf5ae58dd2bd3ffc6e81594b1e7c6[m
+Author: rahulgajawada <65941129+rahulgajawada@users.noreply.github.com>
+Date:   Sat Jun 13 22:52:49 2020 -0500
+
+    Adding my name into the program
+
+[33mcommit 2a77bcb1929cd3b6164270a8b87f5464395125c2[m
+Merge: 342b664 c03d748
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Thu Jun 11 16:12:27 2020 -0400
+
+    Merge pull request #14 from jarodsagendorph/master
+    
+    Adding my name
+
+[33mcommit c03d74843efd50f40be86606fb7aca2608460aeb[m
+Author: Jarod Sagendorph <jarodsagendorph@gmail.com>
+Date:   Thu Jun 11 14:19:44 2020 -0400
+
+    Adding my name
+
+[33mcommit 342b6645097ff579c465cd518026679d41bcebbc[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Thu Jun 11 11:32:58 2020 -0400
+
+    Update README.md
+
+[33mcommit 199e43e549f87a2e42001dd27ba987793f115e7e[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Thu Jun 11 11:32:07 2020 -0400
+
+    Update README.md
+
+[33mcommit b16934c25872b33fd165ed1170e955c9b0c5edab[m
+Merge: cb5ff55 d120d8e
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Thu Jun 11 11:27:29 2020 -0400
+
+    Merge pull request #13 from Gautam-Chatterjee/master
+    
+    Adding My name
+
+[33mcommit d120d8e3532fc1a11845800213898d2882a445f5[m
+Author: Gautam Chatterjee <gautamchatterjee@Gautams-MacBook-Pro.local>
+Date:   Thu Jun 11 16:08:19 2020 +0530
+
+    Adding My name
+
+[33mcommit cb5ff5550f2f3b2a63360146759c609f7f7e94ca[m
+Merge: a369672 c7a9f27
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Wed Jun 3 14:10:44 2020 -0400
+
+    Merge pull request #12 from sperek27/master
+    
+    Adding My name
+
+[33mcommit c7a9f27f6fae3caead493baebaed523e205069f9[m
+Author: sperek27 <sperek27@gmail.com>
+Date:   Wed Jun 3 12:23:33 2020 -0500
+
+    Adding My name
+
+[33mcommit a369672fdfb5afbdaff6a8070b1db8760769a220[m
+Merge: a3722f0 748b7db
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Wed Jun 3 11:46:14 2020 -0400
+
+    Merge pull request #7 from nafisrahman/master
+    
+    Adding my name
+
+[33mcommit 748b7db0e394b34a6254613476c4b61eb9a769fa[m
+Merge: 294ccf3 a3722f0
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Wed Jun 3 11:46:01 2020 -0400
+
+    Merge branch 'master' into master
+
+[33mcommit a3722f0824cc64c2f9c39382e7ba2e2a8246e1ef[m
+Merge: 6175950 0da326e
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Wed Jun 3 11:42:52 2020 -0400
+
+    Merge pull request #8 from shashanklal01/master
+    
+    Adding My name
+
+[33mcommit 0da326e128a73b49583aa957e8f4d39f4bfbf548[m
+Merge: 33d5097 6175950
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Wed Jun 3 11:42:36 2020 -0400
+
+    Merge branch 'master' into master
+
+[33mcommit 617595048753f08e3bc4573cb4de976c70f71172[m
+Merge: 93ead2c 24ee458
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Wed Jun 3 11:41:30 2020 -0400
+
+    Merge pull request #9 from anushkasingh16/master
+    
+    Adding My name
+
+[33mcommit 24ee458c7053a96326a31d59821dec1d9dfd2e16[m
+Merge: 59bd227 93ead2c
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Wed Jun 3 11:41:18 2020 -0400
+
+    Merge branch 'master' into master
+
+[33mcommit 93ead2c1c4953c9457adf57000155a8b6c668b7d[m
+Merge: 443da01 a039d22
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Wed Jun 3 11:36:41 2020 -0400
+
+    Merge pull request #10 from afl452/master
+    
+    Adding My Name
+
+[33mcommit a039d22423f50ed7ed2e2e596c6165eda3f8b03b[m
+Merge: 6ca37a9 443da01
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Wed Jun 3 11:36:26 2020 -0400
+
+    Merge branch 'master' into master
+
+[33mcommit 443da01d54ac28113dca94d533e5bbbb94235bac[m
+Merge: 2d1f65e caf4bd1
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Wed Jun 3 11:15:04 2020 -0400
+
+    Merge pull request #11 from ahmedjaafar6/master
+    
+    Adding My name
+
+[33mcommit caf4bd168fa6bee7e294e9a6631becf8bfe9520a[m
+Author: ahmedjaafar6 <ahmedaj2000@gmail.com>
+Date:   Tue Jun 2 01:15:53 2020 -0500
+
+    Adding My name
+
+[33mcommit 6ca37a9807fb4f65597ac51e4c69a842f9a41bc9[m
+Author: afl452 <63011985+afl452@users.noreply.github.com>
+Date:   Tue Jun 2 00:08:30 2020 -0400
+
+    Adding My Name
+
+[33mcommit 59bd2276f3aedf4975cbb3d06f85e8bda6f783b1[m
+Author: Anushka Singh <55222063+anushkasingh16@users.noreply.github.com>
+Date:   Mon Jun 1 22:38:53 2020 +0530
+
+    Adding My name
+
+[33mcommit 33d5097d5406b2c67b420007b313f60f4e8789ab[m
+Author: Shashank Lal <shashanklal01@gmail.com>
+Date:   Mon Jun 1 20:41:32 2020 +0400
+
+    Adding My name
+
+[33mcommit 294ccf33d18755359339efab87ab6deaf9e22fc4[m
+Author: nafisrahman <nafisrahman797@gmail.com>
+Date:   Sun May 31 15:53:01 2020 -0400
+
+    Adding my name
+
+[33mcommit 2d1f65ec1149d2d5fd9d5c31cc8067c79526270d[m
+Merge: e4fe08a 2224f34
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Sun May 24 16:59:01 2020 -0400
+
+    Merge pull request #6 from AtrikDas/master
+    
+    Adding My name
+
+[33mcommit 2224f3498c1413a86882926a0b3119fca5ff47f4[m
+Author: Atrik Das <atrikdas@gmail.com>
+Date:   Mon May 25 03:41:13 2020 +0800
+
+    Adding My name
+
+[33mcommit e4fe08ab13e69f0d42405b1d3015f20a5d0cdc77[m
+Merge: b40cf3d b5de948
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Sun May 24 12:03:11 2020 -0400
+
+    Merge pull request #5 from AryamanAgrawal/master
+    
+    Adding My Name
+
+[33mcommit b5de9487d6a71c627f3fd902d6368002197d299c[m
+Author: Aryaman21 <aryaman.agrawal21@gmail.com>
+Date:   Sat May 23 20:19:23 2020 -0400
+
+    Adding My Name
+
+[33mcommit b40cf3d9eda5501e0494f7ba27103360a4797d8d[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Sat May 23 19:01:20 2020 -0400
+
+    Update README.md
+
+[33mcommit 6fe540761b5e80f5f885670566fb53e7963b27af[m
+Merge: 05415ae 8a76441
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Fri May 22 13:10:50 2020 -0400
+
+    Merge pull request #4 from AbhinandanPadhi/master
+    
+    Adding My name
+
+[33mcommit 8a764416216c0ae930c566fd3ee7869f48fb68ae[m
+Author: Abhinandan <abhinandan.padhi.123@gmail.com>
+Date:   Fri May 22 22:39:52 2020 +0800
+
+    Adding My name
+
+[33mcommit 05415aeee3a0fc31145824df96a9eb7cefd9bae2[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Thu May 21 14:55:21 2020 -0400
+
+    Update first-task.md
+
+[33mcommit 112db151c03fd52b7cf3e3f2a0088d39c549c8f3[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Thu May 21 14:38:58 2020 -0400
+
+    Update README.md
+
+[33mcommit 8b917f8810f19b220ec0707b576683e90efac12e[m
+Merge: 8237cc4 54d33f4
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Wed May 20 16:16:59 2020 -0400
+
+    Merge pull request #3 from Pramurta/master
+    
+    Adding my name
+
+[33mcommit 54d33f4b75be6de1c9b3df45f68889519eddcf52[m
+Author: Pramurta <pramurta.chatterjee@gmail.com>
+Date:   Wed May 20 17:32:14 2020 +0800
+
+    Adding my name
+
+[33mcommit 8237cc46dbb324e67344ed12d0ff29b6f6e05685[m
+Merge: a370da6 3fc7f4f
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Sat May 16 19:22:23 2020 -0400
+
+    Merge pull request #2 from Anirudh-Muthukumar/master
+    
+    Adding My name
+
+[33mcommit 3fc7f4fc905be8b88a67395d2a733d099b724ab2[m
+Author: Anirudh-Muthukumar <anirudhm426@gmail.com>
+Date:   Sat May 16 19:17:22 2020 -0400
+
+    Adding My name
+
+[33mcommit a370da699f63e05ee3aa338be35015c14c1fdd6c[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Sat May 16 15:17:49 2020 -0400
+
+    minor
+
+[33mcommit f6661d760e1926d92993e270c9ed4cfaa2971d46[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Sat May 16 15:15:01 2020 -0400
+
+    minor
+
+[33mcommit d2226dafb4ac7f6ec03ff32636482f5fb774eb00[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Sat May 16 15:12:32 2020 -0400
+
+    adding final changes to first task
+
+[33mcommit d48e945049d075633c7d90918d0672f4da055363[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Sat May 16 15:06:39 2020 -0400
+
+    changing first task
+
+[33mcommit 1e2bb94b3774ad11e7c27b10828d79f302546d3c[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Sat May 16 14:57:33 2020 -0400
+
+    adding assets
+
+[33mcommit 9faef3b24fe9c6e0bfceae98b5a993f795efdeb2[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Tue May 12 23:22:34 2020 -0400
+
+    Update first-task.md
+
+[33mcommit ac6dbe5f37bce368ca591a6ef4037e768b7deb81[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Mon May 11 17:31:25 2020 -0400
+
+    Update README.md
+
+[33mcommit f6f6551e5759a0b47c81964f11ac4f7a9074e69e[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Sat May 9 23:10:47 2020 -0400
+
+    Update first-task.md
+
+[33mcommit 3b4f1da4448cfae8516e79b778fbef50e458bdd9[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Fri May 8 03:42:31 2020 -0400
+
+    additions
+
+[33mcommit 0577f2952c8f9a333cba77e7560ed16a4705b61a[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Fri May 8 03:40:36 2020 -0400
+
+    minor
+
+[33mcommit 8ee1c689b0307c5ab3f15b6ec4f9cc743800f1ac[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Thu May 7 22:46:30 2020 -0400
+
+    adding details
+
+[33mcommit 6f7740f671479c15aae63bea57541b833e1fc189[m
+Merge: 064f6e2 5faea8f
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Tue May 5 19:59:39 2020 -0400
+
+    Merge branch 'master' of https://github.com/dsc-umass/summer-with-dsc
+
+[33mcommit 064f6e2105b19d2f2263b58c8d26f082e0fd67ee[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Tue May 5 19:59:33 2020 -0400
+
+    correcting details
+
+[33mcommit 5faea8fb1d9dd6d4095c63f5043cfb841bc8fbc0[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Tue May 5 19:11:30 2020 -0400
+
+    Create LICENSE
+
+[33mcommit 6e90e06da34951f1f655bd3749b5301ad6baa018[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Tue May 5 19:05:30 2020 -0400
+
+    minor
+
+[33mcommit a542550df8e027bd5b77e4f2e367e55ecc0b6553[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Tue May 5 18:58:21 2020 -0400
+
+    adding list of participants
+
+[33mcommit a91b1814e9d68b0e86e56aaf5ca62f845f341d4b[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Sat May 2 04:24:21 2020 -0400
+
+    Update README.md
+
+[33mcommit 7ea9dae2b2cf06b7f73adfe0f413c58f6a2ea003[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Fri May 1 18:09:20 2020 -0400
+
+    Update README.md
+
+[33mcommit f2e15dc37dfbda5f92a69587a4e1eb9cefde1c1f[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Fri May 1 18:02:38 2020 -0400
+
+    Update README.md
+
+[33mcommit d42a63507798e33fa595905039b5fbf133c35e0e[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Fri May 1 17:21:58 2020 -0400
+
+    Update README.md
+
+[33mcommit 1326d9cd579677c009c3bf87eafc4a809d21d8b5[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Fri May 1 16:59:39 2020 -0400
+
+    Update README.md
+
+[33mcommit 31dec33432e53ebb83c99c3eb2d049b9ccdc3f2f[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Fri May 1 16:58:30 2020 -0400
+
+    Update README.md
+
+[33mcommit aed274eaa4850acee6b31d3d895121ae46e131f9[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Fri May 1 16:57:41 2020 -0400
+
+    Update README.md
+
+[33mcommit 5fb72e6962c11c605517908d677da45b1d7f6da8[m
+Author: Abhinav Tripathy <abhinavtripathy99@gmail.com>
+Date:   Fri May 1 16:52:43 2020 -0400
+
+    Initial commit
