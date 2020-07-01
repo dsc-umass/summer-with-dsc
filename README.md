@@ -26,6 +26,7 @@ Summer with DSC UMass is an initiative to get students into open source through 
 - Gautam Chatterjee
 - Jarod Sagendorph
 - Rahul Gajawada
+- Kevin Smith
 - Yuri Kim
 - Anavi Dharawat
 - Yan Chen
