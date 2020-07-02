@@ -46,3 +46,4 @@ Summer with DSC UMass is an initiative to get students into open source through 
 - Ronald Seoh
 - Shubhranshu Mishra
 - Sihua Chen
+- Sai Rohan Bangari
