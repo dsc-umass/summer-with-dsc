@@ -48,3 +48,4 @@ Summer with DSC UMass is an initiative to get students into open source through 
 - Sihua Chen
 - Jack Palaia
 - Damilola Adesola
+- Aryaan Bomma
